@@ -26,7 +26,8 @@ I'm not responsible for any consequences resulting from the use of this bot.
 🛠️ Execute `run.bat`to install depencies, ones done run `main.py`
 
 ▶️ Enjoy!
-    
+
+* make sure to give a star ⭐!
 ## 🔗 Links
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1010472552755384380)
 
