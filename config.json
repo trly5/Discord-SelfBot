@@ -1,0 +1,17 @@
+{
+    "I2C_Rate": 90,
+    "C2I_Rate": 87,
+    "Upi": "none",
+    "Upi2": "none",
+    "Qr": "none",
+    "Qr2": "none",
+    "SERVER_Link": "#",
+    "User_Id": "#",
+    "LTC_ADDY": "#",
+    "LTC_ADDY2": "#",
+    "BINANCE_ID": "none",
+    "ltckey": "Upload Here",
+    "apikey": "t-6671a344bf5dd5001c4cf40d-4b64fd6ff6634d3ebdaf6120",
+    "token": "YOUR-TOKEN-HERE",
+    "prefix": ","
+    }
