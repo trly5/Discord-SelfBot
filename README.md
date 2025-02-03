@@ -18,7 +18,7 @@ This is the final release of the Discord Self Bot V4.1. Please note that no supp
 
 This software is provided as-is, without any warranties or support.
 
-The author is not responsible for any consequences resulting from the use of this bot.
+I'm not responsible for any consequences resulting from the use of this bot.
 ## 🔧 Installation
 
 📥 Clone the repo `git clone https://github.com/trly5/Discord-SelfBot`
