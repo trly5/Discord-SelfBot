@@ -21,7 +21,7 @@ This software is provided as-is, without any warranties or support.
 I'm not responsible for any consequences resulting from the use of this bot.
 ## 🔧 Installation
 
-📥 Clone the repo `git clone https://github.com/trly5/Discord-SelfBot`
+📥 Clone the repo `git clone https://github.com/settleluis/Discord-SelfBot`
 
 🛠️ Execute `run.bat`to install depencies, ones done run `main.py`
 
